@@ -5,8 +5,7 @@
 Marketing Technologist moving towards SRE with a interest in crypto, AI, ML!
 
 - 🛠️ Currently learning and building in **Site Reliability Engineering** and **Web3**
-- 🤖 Exploring the convergence of **crypto, AI, and ML**—one smart contract and ML model at a time
-- 🔗 Passionate about keeping systems reliable, scalable, and secure in a decentralized world
+- 🔗 Focused on keeping systems reliable, scalable, and secure in a decentralized world
 - 🌱 Constantly optimizing my learning pipeline (yes, sometimes stuck in Tutorial Hell)
 - 🤝 Looking to collaborate on **SRE, Web3, Crypto, and Machine Learning** projects
 - ⚡ Fun fact: If not fixing infra, I’m probably crafting pixel-perfect designs in Photoshop or playing with custom sites
