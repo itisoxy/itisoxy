@@ -25,12 +25,6 @@ Marketing Technologist moving towards SRE with a interest in crypto, AI, ML!
 
 ---
 
-## 🚀 GitHub Stats
-
-![itisoxy](https://github-readme-stats.vercel.app/api?username=itisoxy&show_icons=true&theme=tokyonight)
-
----
-
 ## 💬 Let's connect!
 
 - DM me here on GitHub or  
